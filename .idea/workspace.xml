@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4df69b2-dea6-40ee-8f45-8a883fab504c" name="Default" comment="try to commit">
-      <change type="MODIFICATION" beforePath="D:\!My IDEA Projects\KNULabs\out\production\KNULabs\SP15_Lab1.class" afterPath="D:\!My IDEA Projects\KNULabs\out\production\KNULabs\SP15_Lab1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="a4df69b2-dea6-40ee-8f45-8a883fab504c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KNULabs.iws" />
@@ -42,7 +40,7 @@
       <file leaf-file-name="SP15_Lab2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SP15_Lab2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.7268171">
+            <state vertical-scroll-proportion="-0.61904764">
               <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -437,15 +435,22 @@
       <updated>1449500512143</updated>
       <workItem from="1449500529011" duration="1070000" />
       <workItem from="1449507246655" duration="5397000" />
-      <workItem from="1450098896684" duration="6069000" />
+      <workItem from="1450098896684" duration="6119000" />
     </task>
+    <task id="LOCAL-00001" summary="try to commit">
+      <created>1450105347136</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1450105347136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12536000" />
+    <option name="totallyTimeSpent" value="12586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -511,6 +516,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try to commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -572,7 +581,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SP15_Lab2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.7268171">
+        <state vertical-scroll-proportion="-0.61904764">
           <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />

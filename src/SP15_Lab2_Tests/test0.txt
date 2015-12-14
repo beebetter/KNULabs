@@ -1,0 +1,13 @@
+//A brief description how to write a machine (an automation) for test
+The begin state
+The number of final states
+N final states
+-->1st
+-->2nd
+...
+-->Nth
+The number of transations
+M transitions
+-->state
+-->transition letter 
+-->next state
